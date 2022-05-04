@@ -19,4 +19,4 @@ _ _italics_ _
  > 'What a life'
 ##### Adding code
 `<p>Amin and I are friends</p>`
-[image](https://unsplash.com/photos/peaf2CGTQH0)
+![image](https://unsplash.com/photos/peaf2CGTQH0)
