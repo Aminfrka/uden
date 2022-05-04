@@ -19,4 +19,4 @@ _ _italics_ _
  > 'What a life'
 ##### Adding code
 `<p>Amin and I are friends</p>`
-![Image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Image](https://myoctocat.com/assets/images/base-octocat.svg#gh-dark-mode-only)
