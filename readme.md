@@ -17,3 +17,5 @@ _ _italics_ _
 ##### Quoting 
  Said Amin:
  > 'What a life'
+##### Adding code
+`<p>Amin and I are friends</p>`
