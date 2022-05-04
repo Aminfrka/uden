@@ -21,3 +21,15 @@ _ _italics_ _
 `<p>Amin and I are friends</p>`
 ![Image](https://myoctocat.com/assets/images/base-octocat.svg)
 ![Another image](https://github.com/github-light.png#gh-dark-mode-only)
+1. Food shopping
+  - sdsd
+  - rice
+  - maize
+    * sweet
+    * dry
+    * flour
+  
+2. Bills
+  - phone
+  - electric
+  
