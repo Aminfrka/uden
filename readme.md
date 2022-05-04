@@ -8,3 +8,8 @@
  *  License
  
 ## Will adding explanation here.. ##
+**Bold text**
+_ _italics_ _
+***Bold italics***
+**bold with _ _italics_ _ inside **
+~~strikethrough~~ 
