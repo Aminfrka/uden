@@ -32,4 +32,8 @@ _ _italics_ _
 2. Bills
   - phone
   - electric
-  
+ 
+ 
+ - [] coding homepage
+ - [x] style 
+ 
