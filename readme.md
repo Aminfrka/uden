@@ -13,4 +13,7 @@ _ _italics_ _
 ***Bold italics***
 **bold with _ _italics_ _ inside**
 ~~strikethrough~~ 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+##### Quoting 
+ Said Amin:
+ > 'What a life'
