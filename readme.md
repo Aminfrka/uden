@@ -34,6 +34,6 @@ _ _italics_ _
   - electric
  
  
- - [ ] coding homepage
+ - [ ]# coding homepage
  - [x] style 
  
